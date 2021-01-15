@@ -9,7 +9,7 @@ Create a threaded solution where each philosopher has it's own thread. The eatin
 What's important:
 - locking of the chopsticks
 - preventing deadlock
-- concurrent eating (so threads or whatever you technology calls it)
-- each of the 5 philosopher eats 3 meals
+- concurrent eating (so threads or whatever your technology calls it)
+- each of the 5 philosophers eats 3 meals
 
 Bon appetite!
